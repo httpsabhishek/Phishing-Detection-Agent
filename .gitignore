@@ -1,4 +1,4 @@
 .env
 token.json
 gmail_token.json
-token.json
+client_secret.json
