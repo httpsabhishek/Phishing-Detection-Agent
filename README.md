@@ -12,7 +12,7 @@ This project is an intelligent email scanner that analyzes your Gmail inbox usin
 -  Can be extended into a real-time email monitoring agent or dashboard.
 
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python 3.8+
 - [simplegmail](https://github.com/jeremyephron/simplegmail) – Gmail API wrapper
 - [LangChain](https://www.langchain.com/) + [langchain-google-genai](https://pypi.org/project/langchain-google-genai/)
