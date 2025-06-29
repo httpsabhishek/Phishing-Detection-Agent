@@ -4,12 +4,12 @@ This project is an intelligent email scanner that analyzes your Gmail inbox usin
 
 ## 🚀 Features
 
-- ✅ Fetches recent emails from your **Primary** inbox tab (ignores Promotions/Social).
-- ✅ Extracts key metadata: subject, sender, body, and headers.
-- ✅ Uses **Gemini 2.0 Flash** to analyze the content for phishing.
-- ✅ Includes SPF, DKIM, and DMARC analysis from email headers.
-- ✅ Classifies emails as **Phishing** or **Legitimate** with explanation.
-- 🧠 Can be extended into a real-time email monitoring agent or dashboard.
+- Fetches recent emails from your **Primary** inbox tab (ignores Promotions/Social).
+- Extracts key metadata: subject, sender, body, and headers.
+- Uses **Gemini 2.0 Flash** to analyze the content for phishing.
+- Includes SPF, DKIM, and DMARC analysis from email headers.
+- Classifies emails as **Phishing** or **Legitimate** with explanation.
+- Can be extended into a real-time email monitoring agent or dashboard.
 
 
 ## 🛠️ Tech Stack
