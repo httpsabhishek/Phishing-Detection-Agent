@@ -1,8 +1,6 @@
 #  AI-Powered Phishing Email Detector using Gmail & Gemini 2.0 Flash
 This project is an intelligent email scanner that analyzes your Gmail inbox using Google's **Gemini 2.0 Flash** LLM. It detects potential phishing attempts by inspecting the **subject, body, and email headers (SPF, DKIM, DMARC)**, and provides an AI-generated classification with reasoning.
 
----
-
 ##  Features
 -  Fetches recent emails from your **Primary** inbox tab (ignores Promotions/Social).
 -  Extracts key metadata: subject, sender, body, and headers.
