@@ -8,14 +8,14 @@ This project is an intelligent email scanner that analyzes your Gmail inbox usin
 -  Includes SPF, DKIM, and DMARC analysis from email headers.
 -  Classifies emails as **Phishing** or **Legitimate** with explanation.
 -  Can be extended into a real-time email monitoring agent or dashboard.
----
+
 
 ##  Tech Stack
 - Python 3.8+
 - [simplegmail](https://github.com/jeremyephron/simplegmail) – Gmail API wrapper
 - [LangChain](https://www.langchain.com/) + [langchain-google-genai](https://pypi.org/project/langchain-google-genai/)
 - Gemini 2.0 Flash – LLM for intelligent classification
----
+
 
 ##  Setup Instructions
 ### 1.  Gmail API Setup
