@@ -26,6 +26,6 @@ This project is an intelligent email scanner that analyzes your Gmail inbox usin
 ### 2. Get Gemini API Key
 1. Go to: https://makersuite.google.com/app/apikey
 2. Copy the API key..
-3. save your API KEY IN .env
+3. save your API KEY in .env
    
 ![Demo of phishing detection](Demo_phishing.gif)
